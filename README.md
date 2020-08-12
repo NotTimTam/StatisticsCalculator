@@ -20,7 +20,8 @@ Once you run a command, type in all the numbers you need to make your calculatio
 
 Example:
 
-`mean
+```
+mean
 CALCULATE MEAN OF:
 
 14
@@ -32,4 +33,5 @@ CALCULATE MEAN OF:
 58
 
 done
-MEAN RESULT: 34.0`
+MEAN RESULT: 34.0
+```
