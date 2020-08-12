@@ -1,5 +1,5 @@
 # StatisticsCalculator
-A simple Python3 calculator that calculates basic statistics functions.
+A simple Python3 app that calculates basic statistics functions.
 
 ## Usage
 Make sure you have the latest version of Python 3 installed before running the program. If you do, simply run `main.py` to begin.
