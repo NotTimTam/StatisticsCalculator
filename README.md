@@ -19,6 +19,7 @@ done | finish functions or end program
 Once you run a command, type in all the numbers you need to make your calculation from, hitting 'enter' after each, then type `done` and hit 'enter' when you are finished.
 
 Example:
+
 `mean
 CALCULATE MEAN OF:
 
